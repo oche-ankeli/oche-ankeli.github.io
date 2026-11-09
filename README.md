@@ -50,5 +50,5 @@ python3 -m http.server 8000
 
 - Email: ankelioche@gmail.com
 - LinkedIn: [oche-ankeli-71001a9b](https://linkedin.com/in/oche-ankeli-71001a9b)
-- GitHub: [Tripp808](https://github.com/Tripp808)
+- GitHub: [oche-ankeli](https://github.com/oche-ankeli)
 - Google Scholar: [XAlPAEsAAAAJ](https://scholar.google.com/citations?hl=en&user=XAlPAEsAAAAJ)
